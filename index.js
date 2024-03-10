@@ -22,6 +22,6 @@ client.on('interactionCreate', interaction => {
   interaction.reply("Pong!")
 })
 
-client.login(
-  ""
-);
+// client.login(
+//   ""
+// );
