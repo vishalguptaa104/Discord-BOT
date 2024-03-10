@@ -20,7 +20,7 @@
 // client.on('interactionCreate', interaction => {
 //   // console.log(interaction);
 //   interaction.reply("Pong!")
-// })
+// })c
 
 // // client.login(
 // //   ""
