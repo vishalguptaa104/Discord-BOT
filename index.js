@@ -23,5 +23,5 @@ client.on('interactionCreate', interaction => {
 })
 
 client.login(
-  "MTIxNjA1MzIzMDg4NzUwNjExMg.G_M2ah.TK1FlvCFcBoOQi1WJSkT3WvFVYtxYA6J263KTc"
+  ""
 );
